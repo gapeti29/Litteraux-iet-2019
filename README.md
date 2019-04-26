@@ -12,7 +12,7 @@ Integrációs és Ellenőrzési Technológiák házi feladata.
 
 ### Feladatok:
 #### CI/CD:
-* Manuális kód átvizsgálás elvégzése az alkalmazás egy részére
+* Deployment előkészítése Docker-rel
 * Statikus analízis eszköz futtatása és jelzett hibák átnézése
 #### Tesztelés:
 *
